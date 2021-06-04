@@ -1,6 +1,6 @@
 # qbit
 
-Blocks for Qbit V1.5
+Extension for Qbit V1.5
 
 ## License
 
