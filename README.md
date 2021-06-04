@@ -1,6 +1,6 @@
 # qbit
 
-Blocks for LOBOT Qbit
+Blocks for Qbit V1.5
 
 ## License
 
